@@ -1,0 +1,21 @@
+# Title: Spotify video blocklist
+#
+# Tries to prevent your Spotify client from playing videos.
+#
+# Date: 2024-05-15T20:00:00Z
+#
+# Website: https://github.com/m7stock/blocklists
+# License: https://unlicense.org
+#
+# You can support this by:
+# - reporting new URLs
+# - reporting false positives
+# -------------------------------------[HOSTS]--------------------------------------
+0.0.0.0 canvaz.scdn.co
+0.0.0.0 sto3-inboundvideo
+0.0.0.0 video-ak.cdn.spotify.com
+0.0.0.0 video-ak.cdn.spotify.com.splitter-eip.akadns.net
+0.0.0.0 video-akpcw-cdn-spotify-com.akamaized.net
+0.0.0.0 video-fa-b.cdn.spotify.com
+0.0.0.0 video-fa.cdn.spotify.com
+0.0.0.0 video-fa.scdn.co
