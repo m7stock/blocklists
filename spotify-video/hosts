@@ -2,7 +2,7 @@
 #
 # Tries to prevent your Spotify client from playing videos.
 #
-# Date: 2024-05-15T20:00:00Z
+# Date: 2025-09-20T16:00:00Z
 #
 # Website: https://github.com/m7stock/blocklists
 # License: https://unlicense.org
@@ -16,6 +16,7 @@
 0.0.0.0 video-ak.cdn.spotify.com
 0.0.0.0 video-ak.cdn.spotify.com.splitter-eip.akadns.net
 0.0.0.0 video-akpcw-cdn-spotify-com.akamaized.net
+0.0.0.0 video-akpcw.spotifycdn.com
 0.0.0.0 video-fa-b.cdn.spotify.com
 0.0.0.0 video-fa.cdn.spotify.com
 0.0.0.0 video-fa.scdn.co
